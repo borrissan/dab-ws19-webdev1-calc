@@ -9,6 +9,7 @@ const operand2 = Number(arguments[1]);
 const operator = arguments[2];
 
 console.log('Calculating:', operand1, operand2, operator);
+console.log('Result:');
 
 let result;
 
